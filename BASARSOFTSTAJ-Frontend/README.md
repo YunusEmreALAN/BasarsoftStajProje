@@ -7,8 +7,6 @@ Kullandığım openlayers (https://openlayers.org/) kütüphanesi sayesinde veri
 
 Projede Asp.Net v8.0 Web API, Entity Framework, PostgreSQL teknolojileri kullanılmıştır.
 
-Projemizde javascript kütüphanelerinden JsPanel (https://jspanel.de/) ve datatables (https://datatables.net) kütüphaneleri özelleştirilerek kullanılmıştır.
-
 Arayüzde responsive bir tasarım kullanılmış olup navbar tasarımı ekranın altına haritanın üzerine konumlandırılmıştır. İçerisinde Nokta, çizgi ve alan ekleme butonları ve listeleme butonları bulunmaktadır. 
 
 Harita ilk yüklendiğinde Türkiye sınırlarını içerisine alacak şekilde zoomlanmış ve cookie'den tema kontrolü yapılarak yüklenmektedir. Sağ üste göründüğü üzere 2 buton bulunmaktadır. Bu butonlardan üstteki dark mode / light mode değişiklik butonu, alttaki ise haritadal, herhangi bir yakınlaştırma, hareket işleminden sonra tek tık ile ana görünüme dönmeyi kolaylaştırmak için eklenmiştir. Dark mode görüntüsü de aşağıdaki gibidir.
