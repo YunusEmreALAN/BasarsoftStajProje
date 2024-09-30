@@ -14,9 +14,9 @@ Unit of Work ise projemizde veritabanı ile yapılacak bütün işlemleri tek bi
 
 Projemize dönecek olursak sadece noktalarla başladığımız API kodlarını son 2 hafta boyunca WKT formatına çevirdik. Önce PointController ve PointService kodlarını yazıp gerekli testleri gerçekleştirdim. Ardından Generic Repository ve Unit of Work kullanımı için gerekli serviceleri yazdım. Bunların gerekli testlerini yaptıktan sonra WKT formatı için gerekli WktController kodlarını yazdım. Swagger UI kullanarak yaptığım testler sonucunda PostgreSQL ve API arasında bağlantımın ve gereken tüm işlerin sorunsuz çalıştığı test edilmiştir. 
 
-Ayrıca projemde bir status code ve messagelar için bir response modeli oluşturdum bu model herhangi bir mesaj için gerekli modeldir. Kullanım örneği aşağıdaki gibidir.
-
 Ayrıca projenin çalışır halinin videosu yandaki linktedir --------->https://youtu.be/XicoBD5ko7U
+
+Ayrıca projemde bir status code ve messagelar için bir response modeli oluşturdum bu model herhangi bir mesaj için gerekli modeldir. Kullanım örneği aşağıdaki gibidir.
 
 ```
   var response = new Response<Wkt>(201, "Wkt created successfully", createdWkt);
