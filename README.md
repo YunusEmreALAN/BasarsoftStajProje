@@ -43,40 +43,38 @@ Get all items
 ```
   GET /api/Wkt
 ```
- Parameter    Type        Description                          
- :--------    :-------    :----------------------------------- 
- `id`         `int`       **Required**.                        
-`wktString`   `string`    **nullable**. For WKT format         
- `name`       `string`    **nullable**. For each feature names 
 
-Get item
+| Parameter | Type     | Description                          |
+| :-------- | :------- | :----------------------------------- |
+| `id`      | `int`    | **Required**.                        |
+|`wktString`| `string` | **nullable**. For WKT format         |
+| `name`    | `string` | **nullable**. For each feature names |
+#### Get item
 
 ```
   GET /api/Wkt/${id}
 ```
- Parameter    Type        Description                          
- :--------    :-------    :----------------------------------- 
- `id`         `int`       **Required**.                        
-`wktString`   `string`    **nullable**. For WKT format         
- `name`       `string`    **nullable**. For each feature names 
+| Parameter | Type     | Description                          |
+| :-------- | :------- | :----------------------------------- |
+| `id`      | `int`    | **Required**.                        |
+|`wktString`| `string` | **nullable**. For WKT format         |
+| `name`    | `string` | **nullable**. For each feature names |
 
-Post item
-
+#### Post item
 ```
   PUT /api/Wkt/${id}
 ```
- Parameter    Type        Description                          
- :--------    :-------    :----------------------------------- 
- `id`         `int`       **Required**.                        
-`wktString`   `string`    **nullable**. For WKT format         
- `name`       `string`    **nullable**. For each feature names 
-
-Delete item
+| Parameter | Type     | Description                          |
+| :-------- | :------- | :----------------------------------- |
+| `id`      | `int`    | **Required**.                        |
+|`wktString`| `string` | **nullable**. For WKT format         |
+| `name`    | `string` | **nullable**. For each feature names |
+#### Delete item
 ```
   DELETE /api/Wkt/${id}
 ```
- Parameter    Type        Description                          
- :--------    :-------    :----------------------------------- 
- `id`         `int`       **Required**.                        
-`wktString`   `string`    **nullable**. For WKT format         
- `name`       `string`    **nullable**. For each feature names 
+| Parameter | Type     | Description                          |
+| :-------- | :------- | :----------------------------------- |
+| `id`      | `int`    | **Required**.                        |
+|`wktString`| `string` | **nullable**. For WKT format         |
+| `name`    | `string` | **nullable**. For each feature names |
