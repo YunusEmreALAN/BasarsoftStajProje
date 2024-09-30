@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BasarsoftInternship")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+446e871b358b1dcf6ef00f6e8e4282da37467783")]
 [assembly: System.Reflection.AssemblyProductAttribute("BasarsoftInternship")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BasarsoftInternship")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

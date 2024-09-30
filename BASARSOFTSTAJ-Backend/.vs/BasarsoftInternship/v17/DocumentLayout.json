@@ -1,7 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\services\\wktservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:services\\wktservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\services\\pointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:services\\pointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\services\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:services\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\services\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:services\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\migrations\\20240922110201_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:migrations\\20240922110201_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\migrations\\20240922110149_migrationad\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:migrations\\20240922110149_migrationad\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\entities\\wkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:entities\\wkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\controllers\\wktcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:controllers\\wktcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\controllers\\pointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:controllers\\pointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|c:\\users\\pc\\desktop\\basarsoftinternshipfull\\basarsoftstaj-backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54849D63-F035-4E27-BEF5-BF17179B0FB7}|BasarsoftInternship.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +90,252 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:46:17.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T14:46:14.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T14:46:11.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T14:46:07.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WktService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Services\\WktService.cs",
+              "RelativeDocumentMoniker": "Services\\WktService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Services\\WktService.cs",
+              "RelativeToolTip": "Services\\WktService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:46:05.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Services\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Services\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Services\\UnitOfWork.cs",
+              "RelativeToolTip": "Services\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:46:04.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PointService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Services\\PointService.cs",
+              "RelativeDocumentMoniker": "Services\\PointService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Services\\PointService.cs",
+              "RelativeToolTip": "Services\\PointService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:46:04.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Services\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Services\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Services\\IUnitOfWork.cs",
+              "RelativeToolTip": "Services\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:46:03.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Services\\IGenericService.cs",
+              "RelativeDocumentMoniker": "Services\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Services\\IGenericService.cs",
+              "RelativeToolTip": "Services\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:46:03.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Services\\GenericService.cs",
+              "RelativeDocumentMoniker": "Services\\GenericService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Services\\GenericService.cs",
+              "RelativeToolTip": "Services\\GenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:46:02.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "Models\\Response.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Models\\Response.cs",
+              "RelativeToolTip": "Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:46:01.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:46:00.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240922110201_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Migrations\\20240922110201_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240922110201_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Migrations\\20240922110201_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240922110201_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:45:59.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240922110149_MigrationAd\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Migrations\\20240922110149_MigrationAd\u0131.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240922110149_MigrationAd\u0131.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Migrations\\20240922110149_MigrationAd\u0131.cs",
+              "RelativeToolTip": "Migrations\\20240922110149_MigrationAd\u0131.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:45:59.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Wkt.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Entities\\Wkt.cs",
+              "RelativeDocumentMoniker": "Entities\\Wkt.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Entities\\Wkt.cs",
+              "RelativeToolTip": "Entities\\Wkt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:45:57.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Entities\\Point.cs",
+              "RelativeDocumentMoniker": "Entities\\Point.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Entities\\Point.cs",
+              "RelativeToolTip": "Entities\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:45:56.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WktController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Controllers\\WktController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WktController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Controllers\\WktController.cs",
+              "RelativeToolTip": "Controllers\\WktController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:45:54.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PointController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Controllers\\PointController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PointController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Controllers\\PointController.cs",
+              "RelativeToolTip": "Controllers\\PointController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:45:54.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Context\\DbContext.cs",
+              "RelativeDocumentMoniker": "Context\\DbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Context\\DbContext.cs",
+              "RelativeToolTip": "Context\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:45:51.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BasarsoftInternshipFull\\BASARSOFTSTAJ-Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T14:45:47.678Z"
             }
           ]
         }
